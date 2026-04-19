@@ -1,0 +1,18 @@
+{
+  "name": "Wellness Support App",
+  "short_name": "Wellness",
+  "description": "Herramienta de apoyo emocional con privacidad total y geolocalización de emergencia.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3063/3063176.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
